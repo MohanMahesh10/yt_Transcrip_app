@@ -1,2 +1,2 @@
-# yt_Transcrip_app
+# yt_Transcript_app
 YouTube Transcript to Detailed Notes Converter
